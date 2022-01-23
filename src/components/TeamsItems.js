@@ -1,38 +1,38 @@
-  export const TeamsItems = [
+   export const TeamsItems = [
     {
-      text: 'руководитель поддержки, планирование задач',
+      text: 'Менеджер по разработке интерфейса',
       title: 'Лёша',
       img: 'images/image1.jpg',
-      alt: 'Леша'
+      alt: 'Лёша'
     },
     {
-      text: 'инфраструктура веб-проектов',
+      text: 'Главный редактор',
       title: 'Роман',
       img: 'images/image2.jpg',
       alt: 'Роман'
     },
     {
-      text: 'менеджер по работе с клинетами, организация оказания услуг',
+      text: 'Менеджер по работе с клинетами',
       title: 'Ирина',
       img: 'images/image3.jpg',
       alt: 'Ирина'
     },
     {
-      text: 'SEO, веб-маркетинг',
+      text: 'Предоставление Web-маркетинга',
       title: 'Даша',
-      img: 'images/image3.jpg',
+      img: 'images/image4.jpg',
       alt: 'Даша'
     },
     {
-      text: 'технический директор, 14 лет опыт работы с Drupal',
+      text: 'Тех. админ,Стаж 15 лет',
       title: 'Сергей',
-      img: 'images/image1.jpg',
+      img: 'images/image5.jpg',
       alt: 'Сергей'
     },
     {
-      text: 'UX/UI дизайн',
+      text: 'Web-дизайнер, более 1000 работ',
       title: 'Вадим',
-      img: 'images/image2.jpg',
+      img: 'images/image6.jpg',
       alt: 'Вадим'
     },
   ];
