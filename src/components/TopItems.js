@@ -4,7 +4,7 @@ export const TopItems = [
     text: 'средний опыт специалистов более 3 лет',
   },
   {
-    num: '14',
+    num: '10',
     text: 'лет опыта в сфере Drupal',
   },
   {
