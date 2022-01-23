@@ -10,7 +10,7 @@ function ExpertiseSection() {
         <div className="ExpertiseSection__inner">
           <div className="ExpertiseSection__content">
             <h1 className="ExpertiseSection__title">
-              Экспертиза в Drupal, опыт 14 лет!
+              Экспертиза в Drupal, опыт 10 лет!
             </h1>
             <div className="ExpertiseSection__group">
               <div className="ExpertiseSection__group-text">
