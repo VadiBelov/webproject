@@ -23,7 +23,7 @@ function FormSection() {
                 </div>
 
                 <a href="tel:+78002222673" className="FormSection__tel">
-                  8 800 222-26-73
+                  8 988 381-81-61
                 </a>
                 <a
                   href="mail:info@drupal-coder.ru"
