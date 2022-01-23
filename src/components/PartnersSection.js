@@ -6,7 +6,15 @@ import './PartnersSection.scss';
 
 export const PartnersItem = [
   {
-    img: '/images/slide1.png',
+    img: '/images/cola1.png',
+    alt: 'kubsu',
+  },
+  {
+    img: '/images/detskyskorohod-logo.png',
+    alt: 'kubsu',
+  },
+  {
+    img: '/images/sarai.png',
     alt: 'kubsu',
   },
   {
@@ -14,23 +22,15 @@ export const PartnersItem = [
     alt: 'kubsu',
   },
   {
-    img: '/images/slide3.png',
+    img: '/images/sport.jpg',
     alt: 'kubsu',
   },
   {
-    img: '/images/slide4.png',
+    img: '/images/texho.jpg',
     alt: 'kubsu',
   },
   {
-    img: '/images/slide1.png',
-    alt: 'kubsu',
-  },
-  {
-    img: '/images/slide2.png',
-    alt: 'kubsu',
-  },
-  {
-    img: '/images/slide3.png',
+    img: '/images/winamp.png',
     alt: 'kubsu',
   },
   {
