@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3937bde4.chunk.css",
+    "main.js": "/static/js/main.ce0f19b3.chunk.js",
+    "main.js.map": "/static/js/main.ce0f19b3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7b9d720f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7b9d720f.js.map",
+    "static/css/2.2a7f5157.chunk.css": "/static/css/2.2a7f5157.chunk.css",
+    "static/js/2.7ff52d04.chunk.js": "/static/js/2.7ff52d04.chunk.js",
+    "static/js/2.7ff52d04.chunk.js.map": "/static/js/2.7ff52d04.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.2a7f5157.chunk.css.map": "/static/css/2.2a7f5157.chunk.css.map",
+    "static/css/main.3937bde4.chunk.css.map": "/static/css/main.3937bde4.chunk.css.map",
+    "static/js/2.7ff52d04.chunk.js.LICENSE.txt": "/static/js/2.7ff52d04.chunk.js.LICENSE.txt",
+    "static/media/ExpertiseSection.scss": "/static/media/Expertise__bg.aa0e267c.png",
+    "static/media/FormSection.scss": "/static/media/Form__bg.7306d54c.png",
+    "static/media/TopSection.scss": "/static/media/Top__bg.15f4e2fa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b9d720f.js",
+    "static/css/2.2a7f5157.chunk.css",
+    "static/js/2.7ff52d04.chunk.js",
+    "static/css/main.3937bde4.chunk.css",
+    "static/js/main.ce0f19b3.chunk.js"
+  ]
+}
