@@ -81,7 +81,7 @@ export const Navbar = () => {
 
           <div className="navbar__info">
             <a href="tel:88002222673" className="navbar__info-tel">
-              8 800 222-26-73
+              8 988 381-81-61
             </a>
             <div className="dropdown">
               <div className="dropbtn">RU</div>
