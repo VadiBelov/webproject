@@ -9,7 +9,7 @@ function ServiceSection() {
         <div className="ServiceSection">
             <div className="ServiceSection__container">
                 <h1 className="ServiceSection__title">
-                  13  лет совершенствуем компетенции в Drupal поддержке!
+                  10  лет совершенствуем компетенции в Drupal поддержке!
                 </h1>
                 <div className="ServiceSection__text">Разрабатываем и оптимизируем модули, расширяем функциональность сайтов, обновляем дизайн</div>
             <div className="ServiceSection__items">
