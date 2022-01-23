@@ -2,7 +2,7 @@
   "name": "react-drupal-kubsu",
   "version": "1.4.8.8",
   "private": true,
-  "home page": "https://VadiBelov.github.io/webproject",
+  "homepage": "https://VadiBelov.github.io/webproject",
   "dependencies": {
     "@formcarry/react": "^1.0.3",
     "@testing-library/jest-dom": "^5.15.0",
