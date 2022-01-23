@@ -16,12 +16,12 @@ function PlansSection() {
         <div className="PlansSection__items">
           <div className="PlansSection__item-box">
             <div className="PlansSection__price">
-              <div className="PlansSection__price-plan">Стандартый</div>
-              <div className="PlansSection__price-cost">2000</div>
+              <div className="PlansSection__price-plan">Вип</div>
+              <div className="PlansSection__price-cost">3200</div>
               <div className="PlansSection__price-time">в час</div>
             </div>
             <ul className="PlansSection__benefits">
-              <li className="PlansSection__benefits-item">
+              <li className="PlansSection__benefits-item">  
                 Предоплата от 2 часов
               </li>
               <li className="PlansSection__benefits-item">
@@ -48,12 +48,12 @@ function PlansSection() {
           <div className="PlansSection__item-box">
             <div className="PlansSection__price">
               <div className="PlansSection__price-plan">Бизнес</div>
-              <div className="PlansSection__price-cost">2000</div>
+              <div className="PlansSection__price-cost">3000</div>
               <div className="PlansSection__price-time">в час</div>
             </div>
             <ul className="PlansSection__benefits">
               <li className="PlansSection__benefits-item">
-                Предоплата от 10 часов
+                Предоплата от 8 часов
               </li>
               <li className="PlansSection__benefits-item">
                 Консультации и работы по SEO
@@ -79,12 +79,12 @@ function PlansSection() {
           <div className="PlansSection__item-box">
             <div className="PlansSection__price">
               <div className="PlansSection__price-plan">Стандартый</div>
-              <div className="PlansSection__price-cost">1800</div>
+              <div className="PlansSection__price-cost">2050</div>
               <div className="PlansSection__price-time">в час</div>
             </div>
             <ul className="PlansSection__benefits">
               <li className="PlansSection__benefits-item">
-                Предоплата от 100 часов
+                Предоплата от 70 часов
               </li>
               <li className="PlansSection__benefits-item">
                 Консультации и работы по SEO
